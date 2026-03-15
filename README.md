@@ -14,4 +14,6 @@ Created a pivot table showing the total sales by category as a percentage
 
 created a pivot table of the top20 selling items
 
+I am unable to upload Pivot Tables because of their large file size O_o
+
 imported the excel data into tableau
